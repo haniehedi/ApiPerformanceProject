@@ -1,0 +1,366 @@
+INFO 2024-10-22 10:29:34,538 autoreload Watching for file changes with StatReloader
+INFO 2024-10-22 10:30:07,380 autoreload /Users/haniehedayati/PycharmProjects/test2/propertyApiPerformance/propertyApiPerformance/settings.py changed, reloading.
+INFO 2024-10-22 10:30:07,584 autoreload Watching for file changes with StatReloader
+INFO 2024-10-22 10:32:07,336 autoreload Watching for file changes with StatReloader
+INFO 2024-10-22 10:32:13,991 middleware GET /properties took 0.01 seconds
+INFO 2024-10-22 10:32:13,991 basehttp "GET /properties?title=new%20prp%20C HTTP/1.1" 301 0
+INFO 2024-10-22 10:32:14,006 middleware GET /properties/ took 0.01 seconds
+INFO 2024-10-22 10:32:14,006 basehttp "GET /properties/?title=new%20prp%20C HTTP/1.1" 200 94
+INFO 2024-10-22 10:32:30,142 middleware GET /properties took 0.01 seconds
+INFO 2024-10-22 10:32:30,143 basehttp "GET /properties?title=new%20prp%20C&min_price=2000 HTTP/1.1" 301 0
+INFO 2024-10-22 10:32:30,152 middleware GET /properties/ took 0.01 seconds
+INFO 2024-10-22 10:32:30,154 basehttp "GET /properties/?title=new%20prp%20C&min_price=2000 HTTP/1.1" 200 94
+INFO 2024-10-22 10:38:10,564 middleware GET /properties took 0.01 seconds
+INFO 2024-10-22 10:38:10,564 basehttp "GET /properties?title=new%20prp%20C&min_price=20 HTTP/1.1" 301 0
+INFO 2024-10-22 10:38:10,572 middleware GET /properties/ took 0.01 seconds
+INFO 2024-10-22 10:38:10,573 basehttp "GET /properties/?title=new%20prp%20C&min_price=20 HTTP/1.1" 200 94
+INFO 2024-10-26 04:39:17,363 autoreload Watching for file changes with StatReloader
+INFO 2024-10-26 04:39:20,892 middleware GET /admin/company/employees/add/ took 0.01 seconds
+INFO 2024-10-26 04:39:20,892 basehttp "GET /admin/company/employees/add/ HTTP/1.1" 302 0
+INFO 2024-10-26 04:39:20,916 middleware GET /admin/login/ took 0.02 seconds
+INFO 2024-10-26 04:39:20,916 basehttp "GET /admin/login/?next=/admin/company/employees/add/ HTTP/1.1" 200 4204
+INFO 2024-10-26 04:39:20,920 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2024-10-26 04:39:20,920 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2024-10-26 04:39:20,921 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2024-10-26 04:39:20,921 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2024-10-26 04:39:20,921 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2024-10-26 04:39:20,921 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2024-10-26 04:39:20,961 basehttp "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2024-10-26 04:39:20,961 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2024-10-26 04:39:20,961 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2024-10-26 04:39:20,961 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2024-10-26 04:39:20,961 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2024-10-26 04:39:20,962 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2024-10-26 04:39:20,963 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2024-10-26 04:39:27,293 middleware POST /admin/login/ took 0.18 seconds
+INFO 2024-10-26 04:39:27,294 basehttp "POST /admin/login/?next=/admin/company/employees/add/ HTTP/1.1" 302 0
+INFO 2024-10-26 04:39:27,435 middleware GET /admin/company/employees/add/ took 0.00 seconds
+WARNING 2024-10-26 04:39:27,435 log Not Found: /admin/company/employees/add/
+WARNING 2024-10-26 04:39:27,435 basehttp "GET /admin/company/employees/add/ HTTP/1.1" 404 5996
+INFO 2024-10-26 04:39:34,832 middleware GET / took 0.02 seconds
+INFO 2024-10-26 04:39:34,833 basehttp "GET / HTTP/1.1" 200 5401
+INFO 2024-10-26 04:39:35,072 middleware GET /admin/ took 0.02 seconds
+INFO 2024-10-26 04:39:35,072 basehttp "GET /admin/ HTTP/1.1" 200 7674
+INFO 2024-10-26 04:39:35,087 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2024-10-26 04:39:35,098 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2024-10-26 04:55:06,866 autoreload /Users/haniehedayati/PycharmProjects/test2/propertyApiPerformance/listings/models.py changed, reloading.
+INFO 2024-10-26 04:55:07,093 autoreload Watching for file changes with StatReloader
+INFO 2024-10-26 05:16:33,812 middleware GET /test-url/ took 0.00 seconds
+INFO 2024-10-26 06:07:14,750 autoreload Watching for file changes with StatReloader
+INFO 2024-10-26 06:32:52,696 middleware POST /agents/ took 0.00 seconds
+INFO 2024-10-26 06:32:52,698 middleware GET /properties/ took 0.00 seconds
+INFO 2024-10-26 06:32:52,698 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,698 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,699 middleware GET /properties/1/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,699 log Too Many Requests: /properties/1/
+INFO 2024-10-26 06:32:52,700 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,700 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,700 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,700 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,700 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,700 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,700 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,701 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,701 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,701 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,701 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,701 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,701 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,701 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,701 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,701 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,701 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,701 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,702 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,702 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,702 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,702 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,702 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,702 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,702 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,702 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,703 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,703 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,703 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,703 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,703 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,703 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,703 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,703 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,703 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,703 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,704 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,704 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,704 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,704 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,704 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,704 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,704 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,704 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,704 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,704 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,705 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,705 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,705 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,705 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,705 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,705 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,705 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,705 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,705 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,705 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,705 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,705 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,706 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,706 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,706 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,706 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,706 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,706 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,706 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,706 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,706 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,706 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,706 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,706 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,707 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,707 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,707 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,707 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,707 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,707 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,707 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,707 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,707 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,707 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,708 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,708 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,708 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,708 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,708 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,708 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,708 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,708 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,708 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,708 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,708 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,708 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,709 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,709 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,709 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,709 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,709 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,709 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,709 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,709 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,709 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,709 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,710 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,710 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,710 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,710 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,710 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,710 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,710 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,710 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,710 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,710 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,710 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,711 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,711 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,711 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,711 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,711 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,711 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,711 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,711 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,711 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,711 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,711 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,712 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,712 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,712 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,712 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,712 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,712 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,712 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,712 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,712 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,712 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,712 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,712 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,713 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,713 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,713 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,713 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,713 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,713 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,713 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,713 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,713 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,713 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,713 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,713 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,714 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,714 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,714 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,714 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,714 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,714 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,714 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,714 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,714 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,714 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,714 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,714 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,715 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,715 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,715 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,715 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,715 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,715 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,715 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,715 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,715 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,715 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,715 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,716 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,716 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,716 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,716 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,716 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,716 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,716 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,716 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,716 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,716 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,716 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,716 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,717 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,717 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,717 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,717 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,717 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,717 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,717 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,717 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,717 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,717 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,717 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,718 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,718 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,718 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,718 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,718 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,718 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,718 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,718 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,718 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,718 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,718 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,718 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,719 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,719 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,719 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,719 log Too Many Requests: /properties/
+INFO 2024-10-26 06:32:52,719 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:32:52,719 log Too Many Requests: /properties/
+INFO 2024-10-26 06:35:50,561 middleware POST /agents/ took 0.00 seconds
+INFO 2024-10-26 06:35:50,563 middleware GET /properties/ took 0.00 seconds
+INFO 2024-10-26 06:35:50,563 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:35:50,563 log Too Many Requests: /properties/
+INFO 2024-10-26 06:35:50,564 middleware GET /properties/1/ took 0.00 seconds
+WARNING 2024-10-26 06:35:50,564 log Too Many Requests: /properties/1/
+INFO 2024-10-26 06:35:50,564 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:35:50,564 log Too Many Requests: /properties/
+INFO 2024-10-26 06:35:50,565 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:35:50,565 log Too Many Requests: /properties/
+INFO 2024-10-26 06:35:50,565 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:35:50,565 log Too Many Requests: /properties/
+INFO 2024-10-26 06:36:18,242 middleware POST /agents/ took 0.00 seconds
+INFO 2024-10-26 06:36:18,243 middleware GET /properties/ took 0.00 seconds
+INFO 2024-10-26 06:36:18,244 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:36:18,244 log Too Many Requests: /properties/
+INFO 2024-10-26 06:36:18,244 middleware GET /properties/1/ took 0.00 seconds
+WARNING 2024-10-26 06:36:18,244 log Too Many Requests: /properties/1/
+INFO 2024-10-26 06:36:18,245 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:36:18,245 log Too Many Requests: /properties/
+INFO 2024-10-26 06:36:18,246 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:36:18,246 log Too Many Requests: /properties/
+INFO 2024-10-26 06:36:18,246 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:36:18,246 log Too Many Requests: /properties/
+INFO 2024-10-26 06:47:55,851 autoreload Watching for file changes with StatReloader
+INFO 2024-10-26 06:48:04,750 middleware POST /agents/ took 0.00 seconds
+INFO 2024-10-26 06:48:04,752 middleware GET /properties/ took 0.00 seconds
+INFO 2024-10-26 06:48:04,752 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:48:04,752 log Too Many Requests: /properties/
+INFO 2024-10-26 06:48:04,753 middleware GET /properties/1/ took 0.00 seconds
+WARNING 2024-10-26 06:48:04,753 log Too Many Requests: /properties/1/
+INFO 2024-10-26 06:48:04,753 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:48:04,753 log Too Many Requests: /properties/
+INFO 2024-10-26 06:48:04,754 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:48:04,754 log Too Many Requests: /properties/
+INFO 2024-10-26 06:48:04,754 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:48:04,754 log Too Many Requests: /properties/
+INFO 2024-10-26 06:48:04,755 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:48:04,755 log Too Many Requests: /properties/
+INFO 2024-10-26 06:48:04,755 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:48:04,755 log Too Many Requests: /properties/
+INFO 2024-10-26 06:48:04,755 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:48:04,755 log Too Many Requests: /properties/
+INFO 2024-10-26 06:48:04,755 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:48:04,755 log Too Many Requests: /properties/
+INFO 2024-10-26 06:49:20,864 middleware POST /agents/ took 0.00 seconds
+INFO 2024-10-26 06:49:20,866 middleware GET /properties/ took 0.00 seconds
+INFO 2024-10-26 06:49:20,866 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:49:20,866 log Too Many Requests: /properties/
+INFO 2024-10-26 06:49:20,867 middleware GET /properties/1/ took 0.00 seconds
+WARNING 2024-10-26 06:49:20,867 log Too Many Requests: /properties/1/
+INFO 2024-10-26 06:49:20,868 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:49:20,868 log Too Many Requests: /properties/
+INFO 2024-10-26 06:49:20,868 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:49:20,868 log Too Many Requests: /properties/
+INFO 2024-10-26 06:49:20,868 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:49:20,868 log Too Many Requests: /properties/
+INFO 2024-10-26 06:52:14,282 middleware GET /properties/ took 0.00 seconds
+INFO 2024-10-26 06:52:14,283 middleware GET /properties/ took 0.00 seconds
+INFO 2024-10-26 06:52:14,283 middleware GET /properties/1/ took 0.00 seconds
+WARNING 2024-10-26 06:52:14,283 log Too Many Requests: /properties/1/
+INFO 2024-10-26 06:52:14,284 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:52:14,284 log Too Many Requests: /properties/
+INFO 2024-10-26 06:52:14,284 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:52:14,285 log Too Many Requests: /properties/
+INFO 2024-10-26 06:52:14,285 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:52:14,285 log Too Many Requests: /properties/
+INFO 2024-10-26 06:53:31,228 autoreload /Users/haniehedayati/PycharmProjects/test2/propertyApiPerformance/listings/views.py changed, reloading.
+INFO 2024-10-26 06:53:31,381 autoreload Watching for file changes with StatReloader
+INFO 2024-10-26 06:53:34,729 middleware POST /agents/ took 0.00 seconds
+INFO 2024-10-26 06:53:34,731 middleware GET /properties/ took 0.00 seconds
+INFO 2024-10-26 06:53:34,731 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:53:34,731 log Too Many Requests: /properties/
+INFO 2024-10-26 06:53:34,732 middleware GET /properties/1/ took 0.00 seconds
+WARNING 2024-10-26 06:53:34,732 log Too Many Requests: /properties/1/
+INFO 2024-10-26 06:53:34,732 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:53:34,733 log Too Many Requests: /properties/
+INFO 2024-10-26 06:53:34,733 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:53:34,733 log Too Many Requests: /properties/
+INFO 2024-10-26 06:53:34,733 middleware GET /properties/ took 0.00 seconds
+WARNING 2024-10-26 06:53:34,733 log Too Many Requests: /properties/
+INFO 2024-10-26 06:54:06,224 autoreload /Users/haniehedayati/PycharmProjects/test2/propertyApiPerformance/propertyApiPerformance/settings.py changed, reloading.
+INFO 2024-10-26 06:54:06,379 autoreload Watching for file changes with StatReloader
+INFO 2024-10-26 06:54:19,047 middleware POST /agents/ took 0.00 seconds
+INFO 2024-10-26 06:54:19,048 middleware GET /properties/ took 0.00 seconds
+INFO 2024-10-26 06:54:19,049 middleware GET /properties/ took 0.00 seconds
+INFO 2024-10-26 06:54:19,050 middleware GET /properties/1/ took 0.00 seconds
+INFO 2024-10-26 06:54:19,051 middleware GET /properties/ took 0.00 seconds
+INFO 2024-10-26 06:54:19,051 middleware GET /properties/ took 0.00 seconds
+INFO 2024-10-26 06:54:19,052 middleware GET /properties/ took 0.00 seconds
+INFO 2024-10-26 06:54:39,065 autoreload /Users/haniehedayati/PycharmProjects/test2/propertyApiPerformance/listings/views.py changed, reloading.
+INFO 2024-10-26 06:54:39,216 autoreload Watching for file changes with StatReloader
+INFO 2024-10-26 06:54:41,462 middleware POST /agents/ took 0.00 seconds
+INFO 2024-10-26 06:54:41,463 middleware GET /properties/ took 0.00 seconds
+INFO 2024-10-26 06:54:41,464 middleware GET /properties/ took 0.00 seconds
+INFO 2024-10-26 06:54:41,465 middleware GET /properties/1/ took 0.00 seconds
+INFO 2024-10-26 06:54:41,465 middleware GET /properties/ took 0.00 seconds
+INFO 2024-10-26 06:54:41,466 middleware GET /properties/ took 0.00 seconds
+INFO 2024-10-26 06:54:41,466 middleware GET /properties/ took 0.00 seconds
